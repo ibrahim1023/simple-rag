@@ -20,11 +20,11 @@
 
 ## 🔄 Customization
 
-Repo: change repo="owner/name".
-Chunk size/overlap: tweak chunk_size & chunk_overlap.
-Embedding model: swap BAAI/bge-base-en-v1.5 for any sentence‑transformers model.
-LLM: point model_name to your preferred HF model (e.g. LLaMA, Mistral).
-Prompt: rewrite the prompt_template for different behaviors (summaries, code, etc.).
+- **Repo**: change repo="owner/name".
+- **Chunk size/overlap**: tweak chunk_size & chunk_overlap.
+- **Embedding model**: swap BAAI/bge-base-en-v1.5 for any sentence‑transformers model.
+- **LLM**: point model_name to your preferred HF model (e.g. LLaMA, Mistral).
+- **Prompt**: rewrite the prompt_template for different behaviors (summaries, code, etc.).
 
 ## 📂 Notebook Overview
 
